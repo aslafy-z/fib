@@ -1,3 +1,3 @@
 # test-repo
 
-## Let's start hacking!
+## [Let's start hacking!](./README.md)
